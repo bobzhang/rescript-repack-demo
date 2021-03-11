@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bs-platform": "^9.0.2",
+    "esbuild": "^0.9.0",
+    "immutable": "^4.0.0-rc.12",
+    "mori": "^0.3.2"
+  }
+}

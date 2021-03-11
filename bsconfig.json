@@ -1,0 +1,13 @@
+{
+  "name": "rescript-repack-demo",
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "package-specs" : {
+    "in-source": true,
+    "module": "es6",
+    "suffix": ".mjs"
+  }
+}
